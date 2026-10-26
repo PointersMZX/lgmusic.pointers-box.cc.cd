@@ -73,13 +73,13 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 			// 是否启用主页横幅文字
 			enable: true,
 			// 主页横幅主标题
-			title: "Pointers-BOX",
+			title: "LG Music",
 			// 主页横幅主标题字体大小
 			titleSize: "4.5rem",
 			// 主页横幅副标题
 			subtitle: [
-				"独立开发者极星Pointers的资源分享平台官方网站",
-				"Pointers-BOX官方网站",
+				"独立开发者极星Pointers的音乐播放器官方网站",
+				"甘露音乐（LG Music）官方网站",
 			],
 			// 主页横幅副标题字体大小
 			subtitleSize: "1.5rem",
@@ -103,7 +103,7 @@ export const backgroundWallpaper: BackgroundWallpaperConfig = {
 				{
 					name: "GitHub",
 					icon: "fa7-brands:github",
-					url: "https://github.com/PointersMZX/Pointers-BOX",
+					url: "https://github.com/PointersMZX/LGMusic",
 					showName: true,
 				},
 				{

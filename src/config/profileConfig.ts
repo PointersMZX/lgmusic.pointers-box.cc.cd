@@ -2,13 +2,13 @@ import type { ProfileConfig } from "../types/profileConfig";
 
 export const profileConfig: ProfileConfig = {
 	// 头像
-	avatar: "/assets/images/avatar/pointers-box.png",
+	avatar: "/assets/images/avatar/lgmusic.png",
 
 	// 名字
-	name: "Pointers-BOX",
+	name: "LG Music",
 
 	// 个人签名
-	bio: "我是Pointers-BOX，由极星（Pointers）自主开发。",
+	bio: "我是甘露音乐（LG Music），由独立开发者极星（Pointers）自主开发。",
 
 	// 链接配置
 	// 已经预装的图标集：fa7-brands，fa7-regular，fa7-solid，material-symbols，simple-icons
@@ -16,7 +16,7 @@ export const profileConfig: ProfileConfig = {
 		{
 			name: "GitHub",
 			icon: "fa7-brands:github",
-			url: "https://github.com/PointersMZX/Pointers-BOX",
+			url: "https://github.com/PointersMZX/LGMusic",
 			showName: false,
 		},
 		{

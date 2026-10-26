@@ -22,14 +22,14 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 	// 标签
 	links.push(LinkPresets.Tags);
 
-	// 关于（本站为 Pointers-BOX 官方站点，非个人博客，故不用默认「关于我」）
+	// 关于（本站为 LG Music 官方站点，非个人博客，故不用默认「关于我」）
 	links.push({
-		name: "关于 Pointers-BOX",
+		name: "关于 LG Music",
 		url: "/about/",
 		icon: "material-symbols:person",
 	});
 
-	// 下载（外部链接，子菜单为三个渠道）
+	// 下载（外部链接，子菜单为各发布渠道）
 	links.push({
 		name: "下载",
 		url: "#",
@@ -39,21 +39,15 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		children: [
 			{
 				name: "GitHub",
-				url: "https://github.com/PointersMZX/Pointers-BOX/releases",
+				url: "https://github.com/PointersMZX/LGMusic/releases",
 				external: true,
 				icon: "fa7-brands:github",
 			},
 			{
 				name: "Gitee",
-				url: "https://gitee.com/PointersMZX/Pointers-BOX/releases",
+				url: "https://gitee.com/PointersMZX/LGMusic/releases",
 				external: true,
 				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "蓝奏云",
-				url: "https://pointers.lanzoum.com/b01d77ya8h",
-				external: true,
-				icon: "material-symbols:cloud",
 			},
 		],
 	});

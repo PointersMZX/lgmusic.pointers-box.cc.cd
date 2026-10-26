@@ -42,19 +42,19 @@ const pages = resolvePageToggles({
 
 export const siteConfig: SiteConfig = {
 	// 站点标题
-	title: "Pointers-BOX",
+	title: "LG Music",
 
 	// 站点副标题
-	subtitle: "Pointers-BOX官方网站",
+	subtitle: "甘露音乐官方网站",
 
 	// 站点 URL
-	site_url: "https://www.pointers-box.cc.cd",
+	site_url: "https://lgmusic.pointers-box.cc.cd",
 
 	// 站点描述
-	description: "独立开发者极星Pointers的资源分享平台",
+	description: "独立开发者极星Pointers开发的聚合音乐播放器",
 
 	// 站点关键词
-	keywords: ["Pointers"],
+	keywords: ["LG Music", "甘露音乐"],
 
 	// 主题色
 	themeColor: {
@@ -83,25 +83,25 @@ export const siteConfig: SiteConfig = {
 	favicon: [
 		{
 			// 图标文件路径
-			src: "/favicon/pointers-32.png",
+			src: "/favicon/lg-32.png",
 			theme: "light",
 			sizes: "32x32",
 		},
 		{
-			src: "/favicon/pointers-32.png",
+			src: "/favicon/lg-32.png",
 			theme: "dark",
 			sizes: "32x32",
 		},
 		{
-			src: "/favicon/pointers-128.png",
+			src: "/favicon/lg-128.png",
 			sizes: "128x128",
 		},
 		{
-			src: "/favicon/pointers-180.png",
+			src: "/favicon/lg-180.png",
 			sizes: "180x180",
 		},
 		{
-			src: "/favicon/pointers-192.png",
+			src: "/favicon/lg-192.png",
 			sizes: "192x192",
 		},
 	],
@@ -111,11 +111,11 @@ export const siteConfig: SiteConfig = {
 		// 导航栏Logo
 		logo: {
 			type: "image",
-			value: "/assets/images/logo/pointers-box.png",
-			alt: "Pointers-BOX",
+			value: "/assets/images/logo/lgmusic.png",
+			alt: "LG Music",
 		},
 		// 导航栏标题
-		title: "Pointers-BOX",
+		title: "LG Music",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
 		widthFull: false,
 		// 导航菜单对齐方式，left：左对齐，center：居中

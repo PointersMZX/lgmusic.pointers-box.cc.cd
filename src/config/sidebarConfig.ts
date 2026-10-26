@@ -65,7 +65,7 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			showOnPostPage: true,
 		},
 		{
-			// 组件类型：广告栏组件（平台公告栏：资源安全说明+QQ群入口，非商家广告，按用户确认开启）
+			// 组件类型：广告栏组件（公告卡：应用安全说明+GitHub 发布页入口）
 			type: "advertisement",
 			// 是否启用该组件
 			enable: true,
@@ -80,10 +80,10 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 				ad: {
 					title: "公告",
 					content:
-						"所有资源由作者亲自测试，无任何风险且完全免费，请放心使用，祝大家资源自由，天天开心。",
+						"应用由作者亲自测试，无任何风险且完全免费，请放心使用，祝大家听歌愉快。",
 					link: {
-						text: "官方QQ社区群",
-						url: "https://qm.qq.com/q/DGf5XI9jgW",
+						text: "GitHub 发布页",
+						url: "https://github.com/PointersMZX/LGMusic/releases",
 						external: true,
 					},
 					// 是否允许关闭广告
