@@ -45,16 +45,16 @@ export const siteConfig: SiteConfig = {
 	title: "LG Music",
 
 	// 站点副标题
-	subtitle: "甘露音乐官方网站",
+	subtitle: "LG Music官方网站",
 
 	// 站点 URL
 	site_url: "https://lgmusic.pointers-box.cc.cd",
 
 	// 站点描述
-	description: "独立开发者极星Pointers开发的聚合音乐播放器",
+	description: "Pointers开发的音乐软件",
 
 	// 站点关键词
-	keywords: ["LG Music", "甘露音乐"],
+	keywords: ["Pointers"],
 
 	// 主题色
 	themeColor: {

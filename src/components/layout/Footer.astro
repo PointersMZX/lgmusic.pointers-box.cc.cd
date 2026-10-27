@@ -1,7 +1,6 @@
 ---
 import fs from "node:fs";
 import path from "node:path";
-import { profileConfig } from "@/config";
 import { url } from "@/utils/url-utils";
 
 const currentYear = new Date().getFullYear();
@@ -41,7 +40,8 @@ try {
 			</div>
 			<div class="mx-0.5 my-2.5 flex gap-x-2 gap-y-2.5 justify-center flex-wrap">
 				Copyright &copy; <span id="copyright-year">{currentYear}</span>
-				{profileConfig.name} All Rights Reserved
+				<!-- 页脚品牌固定用无空格标识 LGMusic（个人资料名字是带空格的 LG Music，两处口径不同） -->
+				LGMusic All Rights Reserved
 				<span aria-hidden="true">/</span>
 				<a
 					class="transition link text-(--primary) font-medium"

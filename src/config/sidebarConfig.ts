@@ -65,11 +65,11 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			showOnPostPage: true,
 		},
 		{
-			// 组件类型：广告栏组件（公告卡：应用安全说明+GitHub 发布页入口）
+			// 组件类型：广告栏组件（公告卡：更新提醒+官方QQ社区群入口）
 			type: "advertisement",
 			// 是否启用该组件
 			enable: true,
-			// 是否显示组件标题（显示「公告」标题）
+			// 是否显示组件标题
 			showTitle: true,
 			// 组件位置（sticky 组内第一，渲染在音乐播放器下方）
 			position: "sticky",
@@ -78,12 +78,11 @@ export const sidebarLayoutConfig: SidebarLayoutConfig = {
 			// 组件专属配置（广告内容直接在此配置）
 			specificConfig: {
 				ad: {
-					title: "公告",
-					content:
-						"应用由作者亲自测试，无任何风险且完全免费，请放心使用，祝大家听歌愉快。",
+					title: "LG Music公告",
+					content: "请及时更新最新版本",
 					link: {
-						text: "GitHub 发布页",
-						url: "https://github.com/PointersMZX/LGMusic/releases",
+						text: "官方QQ社区群",
+						url: "https://qm.qq.com/q/DGf5XI9jgW",
 						external: true,
 					},
 					// 是否允许关闭广告
