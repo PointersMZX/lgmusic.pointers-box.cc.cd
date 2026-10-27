@@ -41,28 +41,28 @@ export const musicPlayerConfig: MusicPlayerConfig = {
 	},
 
 	// 本地音乐配置（当 mode 为 'local' 时使用）
-	// 支持三首本地歌曲，封面统一使用 LG Music 图标，均无歌词
+	// 支持三首本地歌曲，封面统一使用 Pointers-BOX 图标（主题曲为两站共用），均无歌词
 	local: {
 		playlist: [
 			{
-				name: "甘露音乐主题曲（一）",
-				artist: "LG Music",
+				name: "Pointers-BOX_v2.4.0主题曲",
+				artist: "Pointers-BOX",
 				url: encodeURI("/assets/music/开往春天的地铁 - 沈奕秋.mp3"),
-				cover: "/assets/music/cover/lgmusic.png",
+				cover: "/assets/music/cover/pointers-box.png",
 				lrc: "",
 			},
 			{
-				name: "甘露音乐主题曲（二）",
-				artist: "LG Music",
+				name: "Pointers-BOX_v2.0.0主题曲",
+				artist: "Pointers-BOX",
 				url: encodeURI("/assets/music/Masquerade (Inst.) - Lindsey Stirling.mp3"),
-				cover: "/assets/music/cover/lgmusic.png",
+				cover: "/assets/music/cover/pointers-box.png",
 				lrc: "",
 			},
 			{
-				name: "甘露音乐主题曲（三）",
-				artist: "LG Music",
+				name: "Pointers-BOX主题曲-万鬼同行",
+				artist: "Pointers-BOX",
 				url: encodeURI("/assets/music/无人区玫瑰 - 一颗狼星.mp3"),
-				cover: "/assets/music/cover/lgmusic.png",
+				cover: "/assets/music/cover/pointers-box.png",
 				lrc: "",
 			},
 		],
