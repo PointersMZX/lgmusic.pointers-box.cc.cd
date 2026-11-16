@@ -33,8 +33,6 @@ draft: false
     [x86](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-x86.apk) /
     [x86_64](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-x86_64.apk)
 - GitHub：<https://github.com/PointersMZX/LGMusic/releases>
-- Gitee：<https://gitee.com/PointersMZX/LGMusic/releases>
-- 蓝奏云：<https://pointers.lanzoum.com/b01d79fi0f>
 
 ## 提醒
 
