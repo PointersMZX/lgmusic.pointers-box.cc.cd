@@ -50,14 +50,8 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 				icon: "fa7-brands:github",
 			},
 			{
-				name: "Gitee",
-				url: "https://gitee.com/PointersMZX/LGMusic/releases",
-				external: true,
-				icon: "fa7-brands:gitee",
-			},
-			{
-				name: "蓝奏云",
-				url: "https://pointers.lanzoum.com/b01d79fi0f",
+				name: "云盘",
+				url: "https://share.feijipan.com/s/c2zZXdES",
 				external: true,
 				icon: "material-symbols:cloud",
 			},
