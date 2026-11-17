@@ -21,17 +21,6 @@ draft: false
 
 ## 下载
 
-- 官网直装：
-  - Windows 常规版安装程序（Win10 / Win11）：[LGMusic_Setup_v1.1.0 x64.exe](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_Setup_v1.1.0%20x64.exe)
-  - Windows 7 兼容版安装程序：[LGMusic_Setup_v1.1.0_Windows7 x64.exe](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_Setup_v1.1.0_Windows7%20x64.exe)
-  - Windows 常规版便携版（免安装，解压即用）：[LGMusic_v1.1.0_x64_Portable.7z](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_x64_Portable.7z)
-  - Windows 7 便携版（免安装，解压即用）：[LGMusic_v1.1.0_win7_Portable.7z](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_win7_Portable.7z)
-  - 安卓版（按设备选择即可）：
-    [arm64-v8a](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-arm64-v8a.apk) /
-    [armeabi-v7a](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-armeabi-v7a.apk) /
-    [universal 通用包](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-universal.apk) /
-    [x86](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-x86.apk) /
-    [x86_64](https://api.pointers-box.cc.cd/Download/LGMusic/LGMusic_v1.1.0_android-x86_64.apk)
 - GitHub：<https://github.com/PointersMZX/LGMusic/releases>
 
 ## 提醒
